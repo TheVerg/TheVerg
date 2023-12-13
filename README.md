@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheVerg
+- 👋 Hi, I’m @Kundai Verg
 - 👀 I’m interested in Javascript, C#, PHP
 - 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...
