@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kundai Verg
-- 👀 I’m interested in Javascript, C#, PHP
-- 🌱 I’m currently learning ...Javascript
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning ...Javascript and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...0772695055
 
